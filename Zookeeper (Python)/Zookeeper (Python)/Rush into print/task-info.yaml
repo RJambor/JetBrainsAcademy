@@ -103,10 +103,6 @@ files:
     if __name__ == '__main__':
         Zookeeper('zookeeper.zookeeper').run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/98/stages/539/implement#comment
-status: Failed
-feedback:
-  message: "No tests have run. For more information, see <a href=\"https://plugins.jetbrains.com/plugin/10081-edutools/docs/troubleshooting-guide.html#no_tests_have_run\"\
-    >the Troubleshooting guide</a>"
-  time: "Thu, 09 Mar 2023 13:19:12 UTC"
+feedback_link: https://hyperskill.org/learn/step/8815#comment
+status: Solved
 record: 1

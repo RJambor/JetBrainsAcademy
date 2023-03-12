@@ -323,6 +323,6 @@ files:
     if __name__ == '__main__':
         Zookeeper('zookeeper.zookeeper').run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/98/stages/542/implement#comment
-status: Unchecked
+feedback_link: https://hyperskill.org/learn/step/8818#comment
+status: Solved
 record: -1
