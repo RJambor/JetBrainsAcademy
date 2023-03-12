@@ -129,4 +129,5 @@ while True:
         print('See you later!')
         break
     else:
-        print(animals[number])
+        
+        print(animals[int(number)])
